@@ -37,3 +37,9 @@ C:\Users\Karl\Downloads\hwk5-20171014T011142Z-001\hwk5\hwk5\obj\Debug\hwk5.cspro
 C:\Users\Karl\Downloads\hwk5-20171014T011142Z-001\hwk5\hwk5\obj\Debug\hwk5.csproj.CoreCompileInputs.cache
 C:\Users\Karl\Downloads\hwk5-20171014T011142Z-001\hwk5\hwk5\obj\Debug\hwk5.exe
 C:\Users\Karl\Downloads\hwk5-20171014T011142Z-001\hwk5\hwk5\obj\Debug\hwk5.pdb
+C:\Users\Karl\Desktop\ssd\C#\Csharp\hwk5\bin\Debug\hwk5.exe.config
+C:\Users\Karl\Desktop\ssd\C#\Csharp\hwk5\bin\Debug\hwk5.exe
+C:\Users\Karl\Desktop\ssd\C#\Csharp\hwk5\bin\Debug\hwk5.pdb
+C:\Users\Karl\Desktop\ssd\C#\Csharp\hwk5\obj\Debug\hwk5.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Desktop\ssd\C#\Csharp\hwk5\obj\Debug\hwk5.exe
+C:\Users\Karl\Desktop\ssd\C#\Csharp\hwk5\obj\Debug\hwk5.pdb
