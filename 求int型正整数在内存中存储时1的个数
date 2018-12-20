@@ -1,0 +1,46 @@
+using System;
+
+namespace karl
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+          string num = Console.ReadLine();
+
+          Console.WriteLine(numOfOnes(num)) ;
+        }
+
+        public static int numOfOnes(string num)
+        {
+            int input = Int32.Parse(num);
+            string toBinary = Convert.ToString(input, 2);
+            int result = 0;
+            for (int i = 0; i < toBinary.Length; i++)
+            {
+                if (toBinary[i] == '1')
+                {
+                    result++;
+                }
+            }
+            return result;
+        }
+
+    }
+}
+
+/*
+
+int main()
+{
+    int t;
+    cin>>t;
+    int count=0;
+    while(t>0)
+    {
+        if(t%2)count++;
+        t=t/2;
+    }
+    cout<<count<<endl;
+}
+     */
